@@ -13,7 +13,7 @@ function Footer() {
         </ul>
       </footer>
       <div className="w-full bg-gray-800 h-10 flex justify-center items-center text-gray-200 text-sm sm:text-lg">
-        Bhubaneswar – 751010; fitzone.bbsr@gmail.com
+        Bhubaneswar – 751010; fitzone.munda@gmail.com
       </div>
     </>
   );
